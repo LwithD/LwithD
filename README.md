@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Maybe my code makes u feel I'm a spider-man hahahahahah.
+
+Actually I'm working as a Backend Developer.
