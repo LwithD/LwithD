@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Maybe my code makes u feel I'm a spider-man hahahahahah.
-
 Actually I'm working as a Backend Developer. And I'm learning machine-learning and data analysis. I'll share part of my project during my learning.
-
-What I most need is a chance to work with experienced and knowledgeable computer scientist.
 
 Hope my code helps. And touch me at lwithd@qq.com.
